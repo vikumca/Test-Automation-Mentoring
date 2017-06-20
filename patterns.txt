@@ -1,0 +1,23 @@
+Singleton
+=====================
+com.epam.automation.util -> Config
+is made singleton as app properties should be same across the project. 
+
+Strategy 
+=========================
+com.epam.automation.pages -> Page -> isCurrentPage
+follows strategy pattern to decide if the page is current page. 
+
+Decorator
+=========================
+com.epam.automation.report -> LogEventListener
+to add custome messages to the log
+
+TemplateMethodPattern
+=========================
+Added separate package and Test for Template Method Pattern
+
+
+
+
+
