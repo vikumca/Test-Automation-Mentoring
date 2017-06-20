@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameworkConfig>
+  <TestEnvironment Name="default">   
+    <Config name="Log4JPropertiesFilePath" value="./configuration/log4j.properties"></Config>
+	<Config name="ChromeDriverPath" value="./src/main/resources/drivers/chromedriver.exe"></Config>
+	<Config name="AppURL" value="https://www.eurowings.com/us.html"></Config>
+	<Config name="BrowserType" value="chrome"></Config> <!--IE = iexplore , FireFox = firefox , Chrome = chrome , Safari = safari -->
+	<Config name="ElementWaitTime" value="10"></Config> <!-- ElementWaitTime = 10 seconds -->
+  </TestEnvironment> 
+
+</FrameworkConfig>

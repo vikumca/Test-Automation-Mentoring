@@ -1,0 +1,250 @@
+2017-06-20 13:07:33 INFO  root:55 - ================================ TEST STARTS NOW  =========================================
+2017-06-20 13:07:33 INFO  root:55 - Reading the Configuration file
+2017-06-20 13:07:34 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 13:07:34 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 13:07:42 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 13:07:42 INFO  root:55 - Started Chrome Browser successfully.
+2017-06-20 13:09:09 INFO  root:55 - Navigated to https://www.eurowings.com/us.html link
+2017-06-20 13:18:03 INFO  root:55 - ================================ TEST STARTS NOW  =========================================
+2017-06-20 13:18:03 INFO  root:55 - Reading the Configuration file
+2017-06-20 13:18:04 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 13:18:06 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 13:18:14 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 13:18:14 INFO  root:55 - Started Chrome Browser successfully.
+2017-06-20 13:18:34 INFO  root:55 - Navigated to https://www.eurowings.com/us.html link
+2017-06-20 13:19:46 INFO  root:55 - ================================ TEST STARTS NOW  =========================================
+2017-06-20 13:19:46 INFO  root:55 - Reading the Configuration file
+2017-06-20 13:19:47 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 13:19:47 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 13:19:54 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 13:19:54 INFO  root:55 - Started Chrome Browser successfully.
+2017-06-20 13:20:30 INFO  root:55 - Navigated to https://www.eurowings.com/us.html link
+2017-06-20 13:24:28 INFO  root:55 - ================================ TEST STARTS NOW  =========================================
+2017-06-20 13:24:28 INFO  root:55 - Reading the Configuration file
+2017-06-20 13:24:29 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 13:24:29 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 13:24:36 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 13:24:36 INFO  root:55 - Started Chrome Browser successfully.
+2017-06-20 13:25:03 INFO  root:55 - Navigated to https://www.eurowings.com/us.html link
+2017-06-20 13:25:03 INFO  root:55 - *** Verified: Euro Wings home page is not current page' ***
+2017-06-20 13:25:04 INFO  root:55 - *** Verified: Departure Airport Field is visible' ***
+2017-06-20 13:25:04 INFO  root:55 - *** Verified: Destination Airport Field is visible' ***
+2017-06-20 13:25:04 INFO  root:55 - *** Verified: Outgoing Flight Field is visible' ***
+2017-06-20 13:25:04 INFO  root:55 - *** Verified: Return Flight Field is visible' ***
+2017-06-20 13:25:05 INFO  root:55 - *** Verified: Passenger Select Field is visible' ***
+2017-06-20 13:25:05 INFO  root:55 - *** Verified: Search for Flight Field is visible' ***
+2017-06-20 13:25:06 INFO  root:55 - Entered London Heathrow in Departure Airport
+2017-06-20 13:25:07 INFO  root:55 - Clicked London Heathrow from the list of airports
+2017-06-20 13:25:08 INFO  root:55 - Entered Rome Fiumicino in Destination Airport
+2017-06-20 13:25:08 INFO  root:55 - Clicked Rome Fiumicino from the list of airports
+2017-06-20 13:25:14 INFO  root:55 - *** Verified: Departure Airport value is LHR = LHR' ***
+2017-06-20 13:25:14 INFO  root:55 - *** Verified: Destination Airport value is FCO = FCO' ***
+2017-06-20 13:25:14 INFO  root:55 - Entered Outgoing Flight date to 22.06.17
+2017-06-20 13:25:14 INFO  root:55 - Entered return Flight date to 26.06.17
+2017-06-20 13:25:25 INFO  root:55 - Exception occurred in waitForElementValueToLoad method
+2017-06-20 13:25:25 INFO  root:55 - Clicked on Search for Flight Button
+2017-06-20 13:25:31 INFO  root:55 - *** Verified: Departure Airport value is LHR = LHR' ***
+2017-06-20 13:25:31 INFO  root:55 - *** Verified: Destination Airport value is FCO = FCO' ***
+2017-06-20 13:25:31 INFO  root:55 - *** Verified: Outgoing flight date is 2 days from today's date22.06.17 = 22.06.17' ***
+2017-06-20 13:25:31 INFO  root:55 - *** Verified: Return flight date is 6 days from today's date26.06.17 = 26.06.17' ***
+2017-06-20 13:25:31 INFO  root:55 - *** Verified: Passenger Select Field is visible on Your Search Page' ***
+2017-06-20 13:25:31 INFO  root:55 - *** Verified: Change Search Field is visible' ***
+2017-06-20 13:26:21 INFO  root:55 - ================================ TEST STARTS NOW  =========================================
+2017-06-20 13:26:21 INFO  root:55 - Reading the Configuration file
+2017-06-20 13:26:21 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 13:26:22 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 13:26:30 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 13:26:30 INFO  root:55 - Started Chrome Browser successfully.
+2017-06-20 13:26:41 INFO  root:55 - Navigated to https://www.eurowings.com/us.html link
+2017-06-20 13:26:41 INFO  root:55 - *** Verified: Euro Wings home page is not current page' ***
+2017-06-20 13:26:41 INFO  root:55 - *** Verified: Departure Airport Field is visible' ***
+2017-06-20 13:26:42 INFO  root:55 - *** Verified: Destination Airport Field is visible' ***
+2017-06-20 13:26:42 INFO  root:55 - *** Verified: Outgoing Flight Field is visible' ***
+2017-06-20 13:26:42 INFO  root:55 - *** Verified: Return Flight Field is visible' ***
+2017-06-20 13:26:42 INFO  root:55 - *** Verified: Passenger Select Field is visible' ***
+2017-06-20 13:26:42 INFO  root:55 - *** Verified: Search for Flight Field is visible' ***
+2017-06-20 13:26:44 INFO  root:55 - Entered London Heathrow in Departure Airport
+2017-06-20 13:26:45 INFO  root:55 - Clicked London Heathrow from the list of airports
+2017-06-20 13:26:48 INFO  root:55 - Entered Rome Fiumicino in Destination Airport
+2017-06-20 13:26:48 INFO  root:55 - Clicked Rome Fiumicino from the list of airports
+2017-06-20 13:26:53 INFO  root:55 - *** Verified: Departure Airport value is LHR = LHR' ***
+2017-06-20 13:26:53 INFO  root:55 - *** Verified: Destination Airport value is FCO = FCO' ***
+2017-06-20 13:26:53 INFO  root:55 - Entered Outgoing Flight date to 22.06.17
+2017-06-20 13:26:54 INFO  root:55 - Entered return Flight date to 26.06.17
+2017-06-20 13:27:04 INFO  root:55 - Exception occurred in waitForElementValueToLoad method
+2017-06-20 13:27:05 INFO  root:55 - Clicked on Search for Flight Button
+2017-06-20 13:27:16 INFO  root:55 - *** Verified: Departure Airport value is LHR = LHR' ***
+2017-06-20 13:27:16 INFO  root:55 - *** Verified: Destination Airport value is FCO = FCO' ***
+2017-06-20 13:27:16 INFO  root:55 - *** Verified: Outgoing flight date is 2 days from today's date22.06.17 = 22.06.17' ***
+2017-06-20 13:27:16 INFO  root:55 - *** Verified: Return flight date is 6 days from today's date26.06.17 = 26.06.17' ***
+2017-06-20 13:27:16 INFO  root:55 - *** Verified: Passenger Select Field is visible on Your Search Page' ***
+2017-06-20 13:27:16 INFO  root:55 - *** Verified: Change Search Field is visible' ***
+2017-06-20 16:26:45 INFO  root:55 - ================================ TEST STARTS NOW  =========================================
+2017-06-20 16:26:45 INFO  root:55 - Reading the Configuration file
+2017-06-20 16:26:46 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 16:26:46 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 16:26:52 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 16:26:52 INFO  root:55 - Started Chrome Browser successfully.
+2017-06-20 16:29:55 INFO  root:55 - Navigated to https://www.eurowings.com/us.html link
+2017-06-20 16:29:55 INFO  root:55 - *** Verified: Euro Wings home page is current page' ***
+2017-06-20 16:29:55 INFO  root:55 - *** Verified: Departure Airport Field is visible' ***
+2017-06-20 16:29:55 INFO  root:55 - *** Verified: Destination Airport Field is visible' ***
+2017-06-20 16:29:55 INFO  root:55 - *** Verified: Outgoing Flight Field is visible' ***
+2017-06-20 16:29:55 INFO  root:55 - *** Verified: Return Flight Field is visible' ***
+2017-06-20 16:29:56 INFO  root:55 - *** Verified: Passenger Select Field is visible' ***
+2017-06-20 16:29:56 INFO  root:55 - *** Verified: Search for Flight Field is visible' ***
+2017-06-20 16:29:58 INFO  root:55 - Entered London Heathrow in Departure Airport
+2017-06-20 16:29:58 INFO  root:55 - Clicked London Heathrow from the list of airports
+2017-06-20 16:29:59 INFO  root:55 - Entered Rome Fiumicino in Destination Airport
+2017-06-20 16:29:59 INFO  root:55 - Clicked Rome Fiumicino from the list of airports
+2017-06-20 16:30:05 INFO  root:55 - *** Verified: Departure Airport value is LHR = LHR' ***
+2017-06-20 16:30:05 INFO  root:55 - *** Verified: Destination Airport value is FCO = FCO' ***
+2017-06-20 16:30:05 INFO  root:55 - Entered Outgoing Flight date to 22.06.17
+2017-06-20 16:30:05 INFO  root:55 - Entered return Flight date to 26.06.17
+2017-06-20 16:30:16 INFO  root:55 - Exception occurred in waitForElementValueToLoad method
+2017-06-20 16:30:16 INFO  root:55 - Clicked on Search for Flight Button
+2017-06-20 16:30:16 INFO  root:55 - *** Verified: Departure Airport value is LHR = LHR' ***
+2017-06-20 16:30:21 INFO  root:55 - *** Verified: Destination Airport value is FCO = FCO' ***
+2017-06-20 16:30:21 INFO  root:55 - *** Verified: Outgoing flight date is 2 days from today's date22.06.17 = 22.06.17' ***
+2017-06-20 16:30:21 INFO  root:55 - *** Verified: Return flight date is 6 days from today's date26.06.17 = 26.06.17' ***
+2017-06-20 16:30:21 INFO  root:55 - *** Verified: Passenger Select Field is visible on Your Search Page' ***
+2017-06-20 16:30:21 INFO  root:55 - *** Verified: Change Search Field is visible' ***
+2017-06-20 16:57:44 INFO  root:55 - Reading the Configuration file
+2017-06-20 16:57:44 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 16:57:44 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 16:57:50 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 16:59:30 INFO  root:55 - Reading the Configuration file
+2017-06-20 16:59:30 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 16:59:31 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 16:59:36 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:00:43 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:00:43 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:00:44 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:00:50 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:02:02 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:02:02 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:02:02 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:02:08 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:07:33 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:07:33 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:07:34 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:07:39 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:13:24 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:13:25 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:13:26 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:13:37 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:15:08 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:15:08 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:15:09 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:15:15 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:41:46 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:41:46 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:41:46 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:41:52 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:42:27 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:42:27 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:42:28 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:42:32 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:43:51 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:43:52 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:43:52 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:43:58 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:44:46 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:44:46 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:44:46 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:44:52 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:47:53 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:47:53 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:47:54 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:47:59 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:48:37 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:48:38 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:48:38 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:48:44 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:50:38 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:50:38 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:50:38 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:50:44 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:51:25 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:51:25 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:51:26 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:51:32 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:53:42 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:53:43 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:53:43 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:53:49 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:57:56 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:57:57 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:57:57 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:58:04 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 17:59:15 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:59:16 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:59:17 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:59:25 INFO  root:55 - Reading the Configuration file
+2017-06-20 17:59:26 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 17:59:26 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 17:59:32 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:05:30 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:05:30 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:05:31 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:05:39 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:08:54 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:08:54 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:08:55 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:09:01 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:10:52 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:10:53 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:10:53 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:11:00 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:14:44 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:14:45 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:14:45 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:14:51 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:22:18 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:22:19 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:22:19 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:22:25 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:23:44 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:23:44 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:23:45 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:23:50 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:24:53 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:24:54 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:24:54 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:25:00 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:27:43 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:27:43 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:27:44 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:27:51 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:29:51 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:29:51 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:29:51 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:29:58 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:35:35 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:35:35 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:35:36 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:35:42 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:37:35 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:37:36 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:37:36 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:37:42 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:41:16 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:41:17 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:41:17 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:41:22 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:43:48 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:43:48 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:43:49 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:43:54 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:46:05 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:46:05 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:46:05 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:46:11 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:47:56 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:47:56 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:47:57 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:48:03 INFO  root:55 - Started Google Chrome Driver with command switches successfully
+2017-06-20 18:55:16 INFO  root:55 - Reading the Configuration file
+2017-06-20 18:55:17 INFO  root:55 - Completed the reading of the Configuration file
+2017-06-20 18:55:18 INFO  root:55 - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2017-06-20 18:55:24 INFO  root:55 - Started Google Chrome Driver with command switches successfully
